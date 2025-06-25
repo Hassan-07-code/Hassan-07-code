@@ -16,8 +16,8 @@
 ### 🌐 Connect with Me
 
 - [LinkedIn](http://www.linkedin.com/in/muhammadhassan-imtiaz-artificial-intelligence-prompts-ai-analytics-intelligence)
-- [Streamlit Portfolio](https://share.streamlit.io/user/hassan-07-code)
-
+- [Streamlit](https://share.streamlit.io/user/hassan-07-code)
+- [E-mail](hassanimtiaz097@gmail.com)
 ---
 
 ### ⚡ Fun Facts & Interests
