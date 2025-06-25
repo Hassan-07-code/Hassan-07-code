@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Hassan Imtiaz
 
-<!--
-**Hassan-07-code/Hassan-07-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring AI Specialist | Python & Flutter Enthusiast | Student at Islamia University of Bahawalpur (IUB)**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍🎓 About Me
+
+- 🎓 Student of Artificial Intelligence at Islamia University of Bahawalpur (IUB)
+- 🐍 Skilled in Python, Flutter, Analytics, and Machine Learning
+- 🌱 Always learning and growing in the field of AI
+- 🏆 Goals: To become proficient in AI and make it easy to resolve people’s issues
+
+---
+
+### 🌐 Connect with Me
+
+- [LinkedIn](http://www.linkedin.com/in/muhammadhassan-imtiaz-artificial-intelligence-prompts-ai-analytics-intelligence)
+- [Streamlit Portfolio](https://share.streamlit.io/user/hassan-07-code)
+
+---
+
+### ⚡ Fun Facts & Interests
+
+- ⚽ Sports: Football, running
+- 🌳 Love traveling to quiet, peaceful places & connecting with nature
+- 📚 Enjoy reading fiction, suspense novels, and spy digests
+
+---
+
+### ✨ Unique Thing About Me
+
+- 🕵️‍♂️ I am mysterious 😂😎
+
+---
+
+### 💬 Favorite Quote
+
+> "Believe you can and you're halfway there."  
+> — Theodore Roosevelt 💪🌟
