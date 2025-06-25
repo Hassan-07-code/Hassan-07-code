@@ -17,7 +17,6 @@
 
 - [LinkedIn](http://www.linkedin.com/in/muhammadhassan-imtiaz-artificial-intelligence-prompts-ai-analytics-intelligence)
 - [Streamlit](https://share.streamlit.io/user/hassan-07-code)
-- [E-mail]([https://wwww.google.com/hassanimtiaz097@gmail.com])
 ---
 
 ### ⚡ Fun Facts & Interests
