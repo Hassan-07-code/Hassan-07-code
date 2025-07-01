@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Hassan Imtiaz
 
-**Aspiring AI Specialist | Python & Flutter Enthusiast | Student at Islamia University of Bahawalpur (IUB)**
+**Aspiring AI Specialist | Python & Flutter Enthusiast | Analysis Intelligence | Student at Islamia University of Bahawalpur (IUB)**
 
 ---
 
