@@ -1,39 +1,44 @@
 # 👋 Hi, I'm Muhammad Hassan Imtiaz
 
-**Aspiring AI Specialist | Python & Flutter Enthusiast | Analysis Intelligence | Student at Islamia University of Bahawalpur (IUB)**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-ai-flutter-analysis)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Portfolio-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white)](https://share.streamlit.io/user/hassan-07-code)
+
+🎓 Aspiring AI Specialist & Student at Islamia University of Bahawalpur (IUB)  
+💻 Skilled in Python, Flutter, Analytics & Machine Learning  
+🌱 Always learning and growing in the field of AI  
+🏆 My goal is to simplify AI to solve real-world problems  
 
 ---
 
-### 👨‍🎓 About Me
+## 👨‍🎓 About Me
 
-- 🎓 Student of Artificial Intelligence at Islamia University of Bahawalpur (IUB)
-- 🐍 Skilled in Python, Flutter, Analytics, and Machine Learning
-- 🌱 Always learning and growing in the field of AI
-- 🏆 Goals: To become proficient in AI and make it easy to resolve people’s issues
-
----
-
-### 🌐 Connect with Me
-
-- [LinkedIn](www.linkedin.com/in/hassan-ai-flutter-analysis)
-- [Streamlit](https://share.streamlit.io/user/hassan-07-code)
----
-
-### ⚡ Fun Facts & Interests
-
-- ⚽ Sports: Football, running
-- 🌳 Love traveling to quiet, peaceful places & connecting with nature
-- 📚 Enjoy reading fiction, suspense novels, and spy digests
+- 🎓 Student of Artificial Intelligence at Islamia University of Bahawalpur (IUB)  
+- 🐍 Skilled in Python, Flutter, Analytics, and Machine Learning  
+- 🌱 Always learning and growing in the field of AI  
+- 🏆 Goals: To become proficient in AI and make it easy to resolve people’s issues  
 
 ---
 
-### ✨ Unique Thing About Me
+## ⚡ Fun Facts & Interests
+
+- ⚽ Sports: Football, running  
+- 🌳 Love traveling to quiet, peaceful places & connecting with nature  
+- 📚 Enjoy reading fiction, suspense novels, and spy digests  
+
+---
+
+## ✨ Unique Thing About Me
 
 - 🕵️‍♂️ I am mysterious 😂😎
 
 ---
 
-### 💬 Favorite Quote
+## 💬 Favorite Quote
 
 > "Believe you can and you're halfway there."  
 > — Theodore Roosevelt 💪🌟
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=hassan-ai-flutter-analysis&icon=0&color=6)](https://visitcount.itsvg.in)
+
