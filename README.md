@@ -3,11 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-ai-flutter-analysis)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Portfolio-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white)](https://share.streamlit.io/user/hassan-07-code)
 
-🎓 Aspiring AI Specialist & Student at Islamia University of Bahawalpur (IUB)  
-💻 Skilled in Python, Flutter, Analytics & Machine Learning  
-🌱 Always learning and growing in the field of AI  
-🏆 My goal is to simplify AI to solve real-world problems  
-
 ---
 
 ## 👨‍🎓 About Me
@@ -21,7 +16,7 @@
 
 ## ⚡ Fun Facts & Interests
 
-- ⚽ Sports: Football, running  
+- 🏐 Sports: Football⚽, running🏃‍♂️, Cricket🏏
 - 🌳 Love traveling to quiet, peaceful places & connecting with nature  
 - 📚 Enjoy reading fiction, suspense novels, and spy digests  
 
