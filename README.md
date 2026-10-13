@@ -41,8 +41,6 @@
 
 - [**RecycleVision**](https://github.com/Hassan-07-code/RecycleVision) — AI-powered Streamlit app that classifies waste using a trained MobileNetV2 model: instant predictions, eco-disposal tips, chatbot support, and batch image processing.
 - [**Eye Controlled Mouse**](https://github.com/Hassan-07-code/eye_controlled_mouse) — real-time eye tracking with MediaPipe Face Landmarker + OpenCV: cursor navigation and blink-based clicks in pure Python.
-- **DataForge** — end-to-end AutoML platform: upload data → train → evaluate → reports. React + FastAPI + Supabase + Docker.
-- **QA Bot** — MLflow-traced RAG assistant over personal notes: TF-IDF retrieval + local Ollama generation.
 
 ## 📊 GitHub Stats
 
@@ -64,8 +62,8 @@
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hassan-07-code&color=blueviolet" />
+<div align="center" style="background: linear-gradient(90deg, #6e40c9, #1f6feb); border-radius: 12px; padding: 14px;">
+  <h3 style="color: #ffffff; margin: 0;"> Thank You for Visiting!</h3>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
